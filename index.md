@@ -1,3 +1,11 @@
+## About Me
+
+I am currently a double major in Computer Science and History at the University of Central Florida, set to graduate in May 2021.
+
+Since June 2020 I have been a member of the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), headed by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/). I work primarily under [Jiao Sun](https://server.cs.ucf.edu/compbio/people/).
+
+Since January 2020 I have been a member of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), headed by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
+
 ## Portfolio
 
 ---
