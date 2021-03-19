@@ -12,7 +12,11 @@ Since January 2020 I have been a member of the [UCF Evolutionary Computation Lab
 
 ## Portfolio
 
+---
+
 ### Startups
+
+---
 
 [uBump.co](https://shop.ubump.co) August 2020 - Present
 
@@ -34,8 +38,21 @@ I helped develop one of the first VALORANT e-sports sites, which quickly became 
 
 ### Projects
 
+---
 
+[Basketball Tracker](https://github.com/brettfazio/CVBallTracking)
 
+![](https://raw.githubusercontent.com/brettfazio/CVBallTracking/main/assets/bron.gif)
+
+[Brett Fazio](https://www.linkedin.com/in/brett-fazio/) and I created a pipeline for tracking basketballs in video for our graduate level Computer Vision course. 
+
+We used a pre-trained [YOLO](https://pjreddie.com/darknet/yolo/) model for initial bounding box detection and [Discriminative Correlational Filters](https://arxiv.org/abs/1611.08461) for live tracking, even without GPUs. We also implement a way to boost accuracy for non-live videos by tracking the object both forwards and backwards.
+
+---
+
+[Stock Skylines](https://wanchichen.github.io/Stock-Skylines/)
+
+I created a silly program that "predicts" stock prices, inspired by [Dr. Parik Patel](https://twitter.com/parikpatelcfa/status/1334497433469022208). It uses Otsu thresholding to obtain a city skyline from a source image, which is then mapped to a stock specified by the user. Implemented using React and Django.
 
 ---
 <p style="font-size:11px">Styling by <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
