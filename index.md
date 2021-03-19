@@ -6,9 +6,11 @@ I will be returning to Texas Instruments as a Software Engineer in July 2021.
 
 From June 2020 to August 2020, I worked as a Software Engineer Intern at Texas Instruments in the ERP Operations Team. 
 
-Since June 2020 I have been a member of the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), headed by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/). I work primarily under [Jiao Sun](https://server.cs.ucf.edu/compbio/people/).
+Since June 2020, I have been a member of the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), headed by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/). I work primarily under [Jiao Sun](https://server.cs.ucf.edu/compbio/people/).
 
-Since January 2020 I have been a member of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), headed by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
+Since January 2020, I have been a member of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), headed by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
+
+More info on my research work can be found [here](/research.md).
 
 ## Portfolio
 
