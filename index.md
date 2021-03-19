@@ -28,7 +28,7 @@ Users can simply tap their NFC stickers against a smartphone and instantly share
 
 I helped develop one of the first VALORANT e-sports sites, which quickly became one of the top statistics and news sources for the budding professional scene. We were eventually acquired by [thespike.gg](https://www.thespike.gg/).
 
-<img src="images/valorantify.png">
+<img src="images/valorantify.PNG">
 
 
 ### Category Name 1 
