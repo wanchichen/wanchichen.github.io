@@ -28,6 +28,8 @@ I worked with [Brennen Fountain](https://www.linkedin.com/in/brennen-fountain-74
 
 Users can simply tap their NFC stickers against a smartphone and instantly share all of their socials. Sample uBump Profile available [here](https://ubump.co/william).
 
+uBump was sold to [Bolstered Media](https://bolsteredmedia.com/) in April 2021.
+
 ---
 
 [valorantify.com](https://github.com/wanchichen/valorantify-preview) June 2020 - August 2020
