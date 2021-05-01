@@ -20,7 +20,7 @@ More info on my research work can be found [here](/research.md).
 
 ---
 
-[uBump.co](https://shop.ubump.co) August 2020 - Present
+[uBump.co](https://shop.ubump.co) August 2020 - April 2021
 
 <img src="images/bump.png">
 
