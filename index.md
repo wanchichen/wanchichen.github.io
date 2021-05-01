@@ -41,6 +41,13 @@ I helped develop one of the first VALORANT e-sports sites, which quickly became 
 ### Projects
 
 ---
+[Extractive Text Summarization With Genetic Algorithms](https://github.com/wanchichen/GA-Text-Summarization)
+
+I created a genetic algorithm model for semantic-based extractive summarization for my graduate level Evolutionary Computation course.
+
+Previous works rely on sentence-based extraction, accomplished via heuristics such as sentence length and positioning. I wanted to create a model that relied purely upon word semantics, making the model more generalizable across formats and domains.
+
+---
 
 [Basketball Tracker](https://github.com/brettfazio/CVBallTracking)
 
