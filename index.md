@@ -4,7 +4,9 @@ I am currently a double major in Computer Science and History at the University 
 
 I will be returning to Texas Instruments as a Software Engineer in July 2021. 
 
-From June 2020 to August 2020, I worked as a Software Engineer Intern at Texas Instruments in the ERP Operations Team. 
+From June 2020 to August 2020, I worked as a Software Engineer Intern at Texas Instruments in the ERP Operations Team.
+
+Since April 2021, I have been a member of the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/). 
 
 Since June 2020, I have been a member of the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), headed by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/). I work primarily under [Jiao Sun](https://server.cs.ucf.edu/compbio/people/).
 
