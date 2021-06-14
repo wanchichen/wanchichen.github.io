@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a double major in Computer Science and History at the University of Central Florida, set to graduate in May 2021.
+I received a BS in Computer Science and BA in History from the University of Central Florida in May 2021.
 
 I will be returning to Texas Instruments as a Software Engineer in July 2021. 
 
