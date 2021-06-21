@@ -14,6 +14,9 @@ Since January 2020, I have been a member of the [UCF Evolutionary Computation La
 
 More info on my research work can be found [here](/research.md).
 
+## Publications
+Khandakar Tanvir Ahmed, Jiao Sun, **William Chen**, Irene Martinez, Sze Cheng, Wencai Zhang, Jeongsik Yong, and Wei Zhang. [In Silico Model for miRNA-mediated Regulatory Network in Cancer](https://github.com/compbiolabucf/PTNet). _Briefings in Bioinformatics_, 2021. (In press)
+
 ## Portfolio
 
 ---
