@@ -48,7 +48,7 @@ I helped develop one of the first VALORANT e-sports sites, which quickly became 
 ### Projects
 
 ---
-[Finch - Personal Finance Projections App]()
+[Finch - Personal Finance Projections App](https://github.com/ucfinancegroup/pfp)
 
 <img src="finch.png">
 
