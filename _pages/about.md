@@ -56,11 +56,3 @@ For our Senior Design Project, [Charles Bailey](https://www.linkedin.com/in/char
 Our custom projection engine allowed users to specify asset allocation amounts and simulate common financial events. Our system is also able to aggregate users together based off of similar financial situations, allowing for the recommendation of products used by similar users. We offer the user transparancy with our aggregation, allowing users to see their financial performance relative to peers through our leaderboards component.
 
 ---
-
-[Extractive Text Summarization With Genetic Algorithms](https://github.com/wanchichen/GA-Text-Summarization)
-
-I created a genetic algorithm model for semantic-based extractive summarization for my graduate level Evolutionary Computation course.
-
-Previous works rely on sentence-based extraction, accomplished via heuristics such as sentence length and positioning. I wanted to create a model that relied purely upon word semantics, making the model more generalizable across formats and domains.
-
----
