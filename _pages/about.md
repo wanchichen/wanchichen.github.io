@@ -7,27 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+I am currently a Software Engineer at Texas Instruments.
 I received a BS in Computer Science and BA in History from the University of Central Florida in May 2021.
-
-I will be returning to Texas Instruments as a Software Engineer in July 2021. 
 
 From June 2020 to August 2020, I worked as a Software Engineer Intern at Texas Instruments in the ERP Operations Team.
 
-Since April 2021, I have been a member of the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/). 
-
+From April 2021 to July 2021, I worked at the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/). 
 Since June 2020, I have been a member of the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), headed by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/). I work primarily under [Jiao Sun](https://server.cs.ucf.edu/compbio/people/).
-
 Since January 2020, I have been a member of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), headed by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
 
-More info on my research work can be found [here](/research.md).
-
-## Publications
+## Selected Publications
 **William Chen**, Brett Fazio. [Morphologically-Guided Segmentation For Translation of Agglutinative Low-Resource Languages](https://wanchichen.github.io/pdf/morpho_nmt.pdf). _The 4th Workshop on Technologies for MT of Low Resource Languages_, 2021. (In press)
 
 Khandakar Tanvir Ahmed, Jiao Sun, **William Chen**, Irene Martinez, Sze Cheng, Wencai Zhang, Jeongsik Yong, and Wei Zhang. [In Silico Model for miRNA-mediated Regulatory Network in Cancer](https://github.com/compbiolabucf/PTNet). _Briefings in Bioinformatics_, 2021. (In press)
 
-## Portfolio
+## Selected Projects
 
 ---
 
