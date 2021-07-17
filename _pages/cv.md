@@ -9,51 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- B.S. in Computer Science, University of Central Florida, 2018-2021
+- B.A. in History, University of Central Florida, 2018-2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Work experience
 
-Publications
-======
+- Software Engineer (July 2021 - Present)
+
+  - Texas Instruments: ERP Operations Team
+
+- Software Engineering Intern (June 2020 - August 2020)
+
+  - Texas Instruments: ERP Operations Team
+
+- Research Assistant (June 2020 - Present)
+
+  - University of Central Florida: [Computational Biology Lab](https://server.cs.ucf.edu/compbio/)
+  - Supervisor: Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/), [Jiao Sun](https://server.cs.ucf.edu/compbio/people/)
+
+- Research Assistant (April 2021 - July 2021)
+
+  - University of Central Florida: [Security and Analytics Lab](http://seal.cs.ucf.edu)
+  - Supervisor: Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/)
+
+- Research Assistant (January 2020 - July 2021)
+
+  - University of Central Florida: [Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html)
+  - Supervisor: Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/)
+
+# Skills
+
+- Programming Languages:
+  - Python
+  - Java
+  - Javascript
+  - Typescript
+  - C
+  - C#
+  - Rust
+- Frameworks:
+  - PyTorch
+  - TensorFlow
+  - React
+  - Express
+  - Actix-web
+- Languages
+  - English (native)
+  - Mandarin Chinese (native)
+  - French (fluent)
+  - Japanese (basic)
+
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+# Honors and Awards
+
+- FLORES 101 Compute Grant (2021)
+- NSF Research Funding (2020)
+- Benaquisto Scholarship (2018)
+- National Merit Finalist (2018)
+
+# Service and leadership
+
+- ACL-IJCNLP 2021 Volunteer
