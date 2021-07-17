@@ -77,3 +77,5 @@ redirect_from:
 # Service and leadership
 
 - ACL-IJCNLP 2021 Volunteer
+- UCF Kendo Club Treasurer (2021)
+- UCF Kendo Club Historian (2020)
