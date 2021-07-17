@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Software Engineer at Texas Instruments.
-I received a BS in Computer Science and BA in History from the University of Central Florida in May 2021.
+I am currently a Software Engineer at Texas Instruments and a Research Assistant at the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/).
 
-From June 2020 to August 2020, I worked as a Software Engineer Intern at Texas Instruments in the ERP Operations Team.
+I received my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
 
-From April 2021 to July 2021, I worked at the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/).
-Since June 2020, I have been a member of the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), headed by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/). I work primarily under [Jiao Sun](https://server.cs.ucf.edu/compbio/people/).
-Since January 2020, I have been a member of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), headed by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
+From April 2021 to July 2021, I was part of the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/).
+
+From January 2020 to July 2021, I was part of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), supervised by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
 
 ## Selected Publications
 
