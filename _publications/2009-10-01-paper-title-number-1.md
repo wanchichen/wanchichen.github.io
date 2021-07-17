@@ -7,5 +7,4 @@ date: 2021-08-16
 venue: 'The 4th Workshop on Technologies for MT of Low Resource Languages'
 paperurl: 'http://wanchichen.github.io/pdf/morpho-nmt.pdf'
 authors: '**William Chen**, Brett Fazio'
-citation: ''
 ---
