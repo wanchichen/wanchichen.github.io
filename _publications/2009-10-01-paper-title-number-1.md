@@ -6,5 +6,5 @@ excerpt: 'Neural Machine Translation for Low Resource Languages is often limited
 date: 2021-08-16
 venue: 'The 4th Workshop on Technologies for MT of Low Resource Languages'
 paperurl: 'http://wanchichen.github.io/pdf/morpho_nmt.pdf'
-authors: 'William Chen, Brett Fazio'
+authors: 'William Chen and Brett Fazio'
 ---
