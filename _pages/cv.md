@@ -14,7 +14,7 @@ redirect_from:
 - B.S. in Computer Science, University of Central Florida, 2018-2021
 - B.A. in History, University of Central Florida, 2018-2021
 
-# Work experience
+# Industry Experience
 
 - Software Engineer (July 2021 - Present)
 
@@ -23,6 +23,8 @@ redirect_from:
 - Software Engineering Intern (June 2020 - August 2020)
 
   - Texas Instruments: ERP Operations Team
+
+# Research Experience
 
 - Research Assistant (June 2020 - Present)
 
