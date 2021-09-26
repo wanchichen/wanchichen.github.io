@@ -83,7 +83,7 @@ author:
   bio: "Software Engineer at Texas Instruments"
   location: "Dallas, TX"
   employer:
-  pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: "https://aclanthology.org/people/w/william-chen/"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=e89NRb0AAAAJ&view_op=list_works&sortby=title"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
