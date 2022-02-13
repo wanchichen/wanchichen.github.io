@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Project Manager + Software Engineer at Texas Instruments, as part of the [Ti.com](ti.com) e-commerce team.
+I am currently a Project Manager + Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team.
 I am also a Research Assistant at the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/).
 
 I received my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
