@@ -2,7 +2,7 @@
 title: "The UCF Systems for the LoResMT 2021 Machine Translation Shared Task"
 collection: publications
 permalink: /publication/loresmt-shared-task
-excerpt: "We present the University of Central Florida systems for the LoResMT 2021 Shared Task,
+excerpt: "We present our systems for the LoResMT 2021 Shared Task,
 participating in the English-Irish and English-Marathi translation pairs. We focused our efforts
 on constrained track of the task, using transfer learning and subword segmentation to enhance
 our models given small amounts of training data. Our models achieved the highest BLEU
