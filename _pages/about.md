@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Software Engineer at Texas Instruments and a Research Assistant at the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/).
+I am currently a Project Manager + Software Engineer at Texas Instruments, as part of the [Ti.com](ti.com) e-commerce team.
+I am also a Research Assistant at the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/).
 
 I received my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
 
@@ -18,9 +19,13 @@ From January 2020 to July 2021, I was part of the [UCF Evolutionary Computation 
 
 ## Selected Publications
 
-**William Chen**, Brett Fazio. [Morphologically-Guided Segmentation For Translation of Agglutinative Low-Resource Languages](https://wanchichen.github.io/pdf/morpho_nmt.pdf). _The 4th Workshop on Technologies for MT of Low Resource Languages_, 2021. (In press)
+**William Chen**, Brett Fazio. [Morphologically-Guided Segmentation For Translation of Agglutinative Low-Resource Languages](https://wanchichen.github.io/pdf/morpho_nmt.pdf). _The 4th Workshop on Technologies for MT of Low Resource Languages_, 2021.
 
-Khandakar Tanvir Ahmed, Jiao Sun, **William Chen**, Irene Martinez, Sze Cheng, Wencai Zhang, Jeongsik Yong, and Wei Zhang. [In Silico Model for miRNA-mediated Regulatory Network in Cancer](https://github.com/compbiolabucf/PTNet). _Briefings in Bioinformatics_, 2021. (In press)
+**William Chen**, Brett Fazio. [The UCF Systems for the LoResMT 2021 Machine Translation Shared Task](https://aclanthology.org/2021.mtsummit-loresmt.13.pdf). _The 4th Workshop on Technologies for MT of Low Resource Languages_, 2021.
+
+Khandakar Tanvir Ahmed, Jiao Sun, **William Chen**, Irene Martinez, Sze Cheng, Wencai Zhang, Jeongsik Yong, and Wei Zhang. [In Silico Model for miRNA-mediated Regulatory Network in Cancer](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab264/6323206?redirectedFrom=fulltext). _Briefings in Bioinformatics_, 2021.
+
+Sukirna Roy, **William Chen**, Annie Wu. Entropy-based synthetic file generation for compression benchmarking. _The Data Compression Conference_, 2022. (In Press)
 
 ## Selected Projects
 

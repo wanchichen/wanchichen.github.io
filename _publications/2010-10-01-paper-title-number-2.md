@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/miRNA
 excerpt: "Current data analyses on gene expression are mostly focused on differential gene/transcript expression in big data-driven studies. However, a poor connection to the proteome changes is a widespread problem in current data analyses. In this study, we overcome these limitations and introduce a graph-based learning model, PTNet, which simulates the miRNAs (microRNAs) that regulate gene expression post-transcriptionally in silico."
 date: 2021-07-01
-venue: "Briefings in Bioinformatics (In Press)"
+venue: "Briefings in Bioinformatics"
 paperurl: "https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab264/6323206?redirectedFrom=fulltext"
 authors: "Khandakar Tanvir Ahmed, Jiao Sun, William Chen, Irene Martinez, Sze Cheng, Wencai Zhang, Jeongsik Yong, and Wei Zhang."
 citation: "Khandakar Tanvir Ahmed, Jiao Sun, William Chen, Irene Martinez, Sze Cheng, Wencai Zhang, Jeongsik Yong, and Wei Zhang. (2021) &quot;In Silico Model for miRNA-mediated Regulatory Network in Cancer.&quot; <i>Briefings in Bioinformatics</i>."
