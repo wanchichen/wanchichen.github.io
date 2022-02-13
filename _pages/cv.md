@@ -18,7 +18,7 @@ redirect_from:
 
 - Software Engineer (July 2021 - Present)
 
-  - Texas Instruments: ERP Operations Team
+  - Texas Instruments: e-Commerce Inventory Team
 
 - Software Engineering Intern (June 2020 - August 2020)
 
@@ -36,7 +36,7 @@ redirect_from:
   - University of Central Florida: [Security and Analytics Lab](http://seal.cs.ucf.edu)
   - Supervisor: Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/)
 
-- Research Assistant (January 2020 - July 2021)
+- Research Assistant (January 2020 - October 2021)
 
   - University of Central Florida: [Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html)
   - Supervisor: Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/)
