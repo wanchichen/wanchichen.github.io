@@ -15,7 +15,7 @@ I received my BS in Computer Science and BA in History from the University of Ce
 
 From April 2021 to July 2021, I was part of the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/).
 
-From January 2020 to July 2021, I was part of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), supervised by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
+From January 2020 to October 2021, I was part of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), supervised by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
 
 ## Selected Publications
 
