@@ -11,6 +11,7 @@ redirect_from:
 
 # Education
 
+- M.S. in Language Technologies, Carnegie Mellon University, 2022-2024
 - B.S. in Computer Science, University of Central Florida, 2018-2021
 - B.A. in History, University of Central Florida, 2018-2021
 
@@ -18,15 +19,15 @@ redirect_from:
 
 - Software Engineer (July 2021 - Present)
 
-  - Texas Instruments: e-Commerce Inventory Team
+  - Texas Instruments: e-Commerce Order Processing
 
 - Software Engineering Intern (June 2020 - August 2020)
 
-  - Texas Instruments: ERP Operations Team
+  - Texas Instruments: ERP Operations
 
 # Research Experience
 
-- Research Assistant (June 2020 - Present)
+- Research Assistant (June 2020 - August 2022)
 
   - University of Central Florida: [Computational Biology Lab](https://server.cs.ucf.edu/compbio/)
   - Supervisor: Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/), [Jiao Sun](https://server.cs.ucf.edu/compbio/people/)
@@ -48,14 +49,14 @@ redirect_from:
   - Java
   - Javascript
   - Typescript
+  - SQL
   - C
   - C#
   - Rust
 - Frameworks:
   - PyTorch
-  - TensorFlow
   - React
-  - Express
+  - Java Spring
   - Actix-web
 - Languages
   - English (native)
@@ -65,9 +66,7 @@ redirect_from:
 
 # Publications
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [Full Info on Google Scholar](https://scholar.google.com/citations?hl=en&user=e89NRb0AAAAJ&view_op=list_works&sortby=title)
 
 # Honors and Awards
 
@@ -78,6 +77,9 @@ redirect_from:
 
 # Service and leadership
 
+- CoCo4MT Program Committee
+- ALTNLP Program Committee
+- NTTT Program Committee
 - ACL-IJCNLP 2021 Volunteer
 - UCF Kendo Club Treasurer (2021)
 - UCF Kendo Club Historian (2020)
