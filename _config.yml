@@ -10,7 +10,7 @@ locale: "en-US"
 title: "William Chen"
 title_separator: "-"
 name: &name "William Chen"
-description: &description "Software Engineer"
+description: &description "MLT Student @ CMU"
 url: https://wanchichen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "wanchichen/wanchichen.github.io"
@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name: "William Chen"
-  avatar: "square.JPG"
-  bio: "Software Engineer at Texas Instruments"
-  location: "Dallas, TX"
+  avatar: "prof.png"
+  bio: "Graduate Student at CMU LTI"
+  location: "Pittsburgh, PA"
   employer:
   pubmed: "https://aclanthology.org/people/w/william-chen/"
   googlescholar: "https://scholar.google.com/citations?hl=en&user=e89NRb0AAAAJ&view_op=list_works&sortby=title"
