@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Master's in Language Technologies student at Carnegie Mellon University's LTI. I will be joining the [Audio and Voice Lab](https://shinjiwlab.github.io), which I have been doing research with since May 2022.
+I am a Master's in Language Technologies student at Carnegie Mellon University's LTI, where I am a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). My research interests are in multilingual speech recognition and speech translation.
 
-I am currently a Product Owner and Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team.
+Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team. [This article](https://finance.yahoo.com/news/texas-instruments-automates-purchasing-experience-130000831.html) details some of the work my team did.
 
 I received my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
 
