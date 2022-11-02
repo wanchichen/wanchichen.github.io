@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's in Language Technologies student at Carnegie Mellon University's LTI, where I am a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). My research interests are in multilingual speech recognition and speech translation.
+I am a Master's in Language Technologies student at Carnegie Mellon University's LTI. I am advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). My research interests are in multilingual speech recognition and speech translation.
 
 Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team. [This](https://finance.yahoo.com/news/texas-instruments-automates-purchasing-experience-130000831.html) [collection](https://www.linkedin.com/posts/texas-instruments_texas-instruments-automates-the-purchasing-ugcPost-6993202576871632896-29MT/?utm_source=share&utm_medium=member_ios) [of articles](https://news.ti.com/texas-instruments-automates-purchasing-experience-with-ti-store-apis?HQS=ocb-tistore-promo-api_launch-linked-pr-null-wwe_awr) details some of the work I did on the team.
 
