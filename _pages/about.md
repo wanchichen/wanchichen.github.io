@@ -56,12 +56,12 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 **CMU’s IWSLT 2023 Simultaneous Speech Translation System**\
 <sub>Brian Yan\*, Jiatong Shi\*, Soumi Maiti, **William Chen**, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
-<sub>*IWSLT 2023*</sub>
+<sub>*IWSLT 2023*</sub>\
 <sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
 
 **QUESPA Submission for the IWSLT 2023 Dialect and Low-resource Speech Translation Tasks**\
 <sub>John E. Ortega, Rodolfo Zevallos, **William Chen**</sub>\
-<sub>*IWSLT 2023*</sub>
+<sub>*IWSLT 2023*</sub>\
 <sub>[paper](https://aclanthology.org/2023.iwslt-1.23/)</sub>
 
 
