@@ -33,7 +33,7 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 **Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**
 <sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
-<sub>*Submitted to ICASSP 2024*</sub>\
+<sub>*Submitted to ICASSP 2024*</sub>
 
 **Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute**
 <sub>**William Chen**, Xuankai Chang, Yifan Peng, Zhaoheng Ni, Soumi Maiti, Shinji Watanabe</sub>\
