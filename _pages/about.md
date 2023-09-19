@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's in Language Technologies student at Carnegie Mellon University's LTI. I am advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). My research interests are in multilingual speech recognition and speech translation.
+I am a Master's in Language Technologies student at Carnegie Mellon University's LTI. I am advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). 
+My work at CMU has focused on building large-scale speech foundation models. My other research interests are in multilingual speech recognition and speech translation.
 
 Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team. [This](https://finance.yahoo.com/news/texas-instruments-automates-purchasing-experience-130000831.html) [collection](https://www.linkedin.com/posts/texas-instruments_texas-instruments-automates-the-purchasing-ugcPost-6993202576871632896-29MT/?utm_source=share&utm_medium=member_ios) [of articles](https://news.ti.com/texas-instruments-automates-purchasing-experience-with-ti-store-apis?HQS=ocb-tistore-promo-api_launch-linked-pr-null-wwe_awr) details some of the work I did on the team.
 
 I received my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
 
 ## Past Positions
+
+From May 2023 to August 2023, I was a Research Intern at the [NTT Communication Sciences Lab](https://www.rd.ntt/e/cs/) in Japan, supervised by [Marc Delcroix](https://www.kecl.ntt.co.jp/icl/signal/member/marcd/), [Atsunori Ogawa](https://www.kecl.ntt.co.jp/icl/signal/member/ogawa/), and [Takatomo Kano](https://scholar.google.com/citations?user=qGzzrJYAAAAJ&hl=en).
 
 From April 2021 to July 2021, I was part of the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/).
 
@@ -24,27 +27,43 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 ## Selected Publications
 
-Rodolfo Zevallos, John Ortega, **William Chen**, Richard Castro, Núria Bel, Cesar Toshio, Renzo Venturas, Hilario Aradiel and Nelsi Melgarejo. [Introducing QuBERT: A Large Monolingual Corpus and BERT Model for Southern Quechua](https://aclanthology.org/2022.deeplo-1.1/). _The Third Workshop on Deep Learning for Low-Resource Natural Language Processing_, 2022.
+[Google Scholar will be more up-to-date.](https://scholar.google.com/citations?hl=en&user=e89NRb0AAAAJ&view_op=list_works&sortby=pubdate)
 
-**William Chen**, Brett Fazio. [Morphologically-Guided Segmentation For Translation of Agglutinative Low-Resource Languages](https://wanchichen.github.io/pdf/morpho_nmt.pdf). _The 4th Workshop on Technologies for MT of Low Resource Languages_, 2021.
+*Speech Foundation Models*
 
-Khandakar Tanvir Ahmed, Jiao Sun, **William Chen**, Irene Martinez, Sze Cheng, Wencai Zhang, Jeongsik Yong, and Wei Zhang. [In Silico Model for miRNA-mediated Regulatory Network in Cancer](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab264/6323206?redirectedFrom=fulltext). _Briefings in Bioinformatics_, 2021.
+**Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**
+<sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
+<sub>*Submitted to ICASSP 2024*</sub>\
 
-## Selected Projects
+**Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute**
+<sub>**William Chen**, Xuankai Chang, Yifan Peng, Zhaoheng Ni, Soumi Maiti, Shinji Watanabe</sub>\
+<sub>*INTERSPEECH 2023*</sub>\
+<sub>[paper](https://arxiv.org/abs/2306.06672)</sub>
 
----
+**ML-SUPERB: Multilingual Speech Universal PERformance Benchmark**
+<sub>Jiatong Shi, Dan Berrebbi, **William Chen**, Ho-Lam Chung, En-Pei Hu, Wei Ping Huang, Xuankai Chang, Shang-Wen Li, Abdelrahman Mohamed, Hung-yi Lee, Shinji Watanabe</sub>\
+<sub>*INTERSPEECH 2023*</sub>\
+<sub>[paper](https://arxiv.org/abs/2107.11628)</sub>
 
-[uBump.co](https://shop.ubump.co) August 2020 - April 2021
+*Multilingual Speech Recognition*
 
-<img src="../images/bump.png">
+**Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
+<sub>**William Chen**, Brian Yan, Jiatong Shi, Yifan Peng, Soumi Maiti, Shinji Watanabe</sub>\
+<sub>*ICASSP 2023*</sub>\
+<sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
 
-I worked with [Brennen Fountain](https://www.linkedin.com/in/brennen-fountain-743302149/) and [Brett Fazio](https://www.linkedin.com/in/brett-fazio/) to create uBump, an NFC oriented social media sharing site.
+*Speech Translation*
 
-Users can simply tap their NFC stickers against a smartphone and instantly share all of their socials. 
+**CMU’s IWSLT 2023 Simultaneous Speech Translation System**\
+<sub>Brian Yan\*, Jiatong Shi\*, Soumi Maiti, **William Chen**, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
+<sub>*IWSLT 2023*</sub>
+<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
 
-Sample uBump Profile available [here](https://ubump.co/william).
+**QUESPA Submission for the IWSLT 2023 Dialect and Low-resource Speech Translation Tasks**\
+<sub>John E. Ortega, Rodolfo Zevallos, **William Chen**</sub>\
+<sub>*IWSLT 2023*</sub>
+<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
 
-uBump was sold to [Bolstered Equity Group](https://www.crunchbase.com/acquisition/bolstered-equity-group-acquires-ubump--a3029e9a) in April 2021.
 
----
+
 

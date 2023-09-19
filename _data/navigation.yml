@@ -1,10 +1,8 @@
 # main links links
 main:
-  - title: "News"
-    url: "/year-archive/"
 
   - title: "Publications"
-    url: /publications/
+    url: /#selected-publications
 
   - title: "Portfolio"
     url: /portfolio/
