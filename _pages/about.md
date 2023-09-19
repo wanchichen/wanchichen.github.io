@@ -35,12 +35,12 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 <sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
 <sub>*Submitted to ICASSP 2024*</sub>
 
-**Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute**
+**Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute**\
 <sub>**William Chen**, Xuankai Chang, Yifan Peng, Zhaoheng Ni, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*INTERSPEECH 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2306.06672)</sub>
 
-**ML-SUPERB: Multilingual Speech Universal PERformance Benchmark**
+**ML-SUPERB: Multilingual Speech Universal PERformance Benchmark**\
 <sub>Jiatong Shi, Dan Berrebbi, **William Chen**, Ho-Lam Chung, En-Pei Hu, Wei Ping Huang, Xuankai Chang, Shang-Wen Li, Abdelrahman Mohamed, Hung-yi Lee, Shinji Watanabe</sub>\
 <sub>*INTERSPEECH 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2107.11628)</sub>
