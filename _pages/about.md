@@ -43,7 +43,7 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 **ML-SUPERB: Multilingual Speech Universal PERformance Benchmark**\
 <sub>Jiatong Shi, Dan Berrebbi, **William Chen**, Ho-Lam Chung, En-Pei Hu, Wei Ping Huang, Xuankai Chang, Shang-Wen Li, Abdelrahman Mohamed, Hung-yi Lee, Shinji Watanabe</sub>\
 <sub>*INTERSPEECH 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2107.11628)</sub>
+<sub>[paper](https://arxiv.org/abs/2305.10615)</sub>
 
 *Multilingual Speech Recognition*
 
@@ -62,7 +62,7 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 **QUESPA Submission for the IWSLT 2023 Dialect and Low-resource Speech Translation Tasks**\
 <sub>John E. Ortega, Rodolfo Zevallos, **William Chen**</sub>\
 <sub>*IWSLT 2023*</sub>
-<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
+<sub>[paper](https://aclanthology.org/2023.iwslt-1.23/)</sub>
 
 
 
