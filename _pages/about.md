@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Master's in Language Technologies student at Carnegie Mellon University's LTI. I am advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). 
-My work at CMU has focused on building large-scale speech foundation models. My other research interests are in multilingual speech recognition and speech translation.
+My work at CMU has focused on building large-scale speech foundation models. My research interests include multilingual speech recognition, speech translation, and long-form speech processing.
 
 Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team. [This](https://finance.yahoo.com/news/texas-instruments-automates-purchasing-experience-130000831.html) [collection](https://www.linkedin.com/posts/texas-instruments_texas-instruments-automates-the-purchasing-ugcPost-6993202576871632896-29MT/?utm_source=share&utm_medium=member_ios) [of articles](https://news.ti.com/texas-instruments-automates-purchasing-experience-with-ti-store-apis?HQS=ocb-tistore-promo-api_launch-linked-pr-null-wwe_awr) details some of the work I did on the team.
 
@@ -31,16 +31,12 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 *Speech Foundation Models*
 
-**Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**\
-<sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
-<sub>*Submitted to ICASSP 2024*</sub>
+**Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning**\
+<sub>**William Chen**, Jiatong Shi, Brian Yan, Dan Berrebbi, Wangyou Zhang, Yifan Peng, Xuankai Chang, Soumi Maiti, Shinji Watanabe</sub>\
+<sub>*ASRU 2023*</sub>
 
 **Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**\
 <sub>Yifan Peng, Jinchuan Tian, Brian Yan, Dan Berrebbi, Xuankai Chang, Xinjian Li, Jiatong Shi, Siddhant Arora, **William Chen**, Roshan Sharma, Wangyou Zhang, Yui Sudo, Muhammad Shakeel, Jee-weon Jung, Soumi Maiti, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>
-
-**Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning**\
-<sub>**William Chen**, Jiatong Shi, Brian Yan, Dan Berrebbi, Wangyou Zhang, Yifan Peng, Xuankai Chang, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*ASRU 2023*</sub>
 
 **YODAS: Youtube-Oriented Dataset for Audio and Speech**\
@@ -77,5 +73,16 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 <sub>[paper](https://aclanthology.org/2023.iwslt-1.23/)</sub>
 
 
+*Long-Form Speech Processing*
 
+**Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**\
+<sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
+<sub>*Submitted to ICASSP 2024*</sub>
 
+**ESPNet-SUMM: Introducing a novel large dataset, toolkit, and a cross-corpora evaluation of speech summarization systems**\
+<sub>Roshan Sharma, **William Chen**, Takatomo Kano, Ruchira Sharma, Atsunori Ogawa, Siddhant Arora, Marc Delcroix, Rita Singh, Shinji Watanabe, Bhiksha Raj </sub>\
+<sub>*ASRU 2023*</sub>
+
+**Summarize while Translating: Universal Model with Parallel Decoding for Summarization and Translation**\
+<sub>Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Kohei Matsuura, Takanori Ashihara, **William Chen**, Shinji Watanabe</sub>\
+<sub>*ASRU 2023*</sub>
