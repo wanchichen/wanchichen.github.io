@@ -35,6 +35,18 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 <sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
 <sub>*Submitted to ICASSP 2024*</sub>
 
+**Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**\
+<sub>Yifan Peng, Jinchuan Tian, Brian Yan, Dan Berrebbi, Xuankai Chang, Xinjian Li, Jiatong Shi, Siddhant Arora, **William Chen**, Roshan Sharma, Wangyou Zhang, Yui Sudo, Muhammad Shakeel, Jee-weon Jung, Soumi Maiti, Shinji Watanabe</sub>\
+<sub>*ASRU 2023*</sub>\
+
+**Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning**\
+<sub>**William Chen**, Jiatong Shi, Brian Yan, Dan Berrebbi, Wangyou Zhang, Yifan Peng, Xuankai Chang, Soumi Maiti, Shinji Watanabe</sub>\
+<sub>*ASRU 2023*</sub>\
+
+**YODAS: Youtube-Oriented Dataset for Audio and Speech**\
+<sub>Xinjian Li, Shinnosuke Takamichi, Takaaki Saeki, **William Chen**, Sayaka Shiota, Shinji Watanabe</sub>\
+<sub>*ASRU 2023*</sub>\
+
 **Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute**\
 <sub>**William Chen**, Xuankai Chang, Yifan Peng, Zhaoheng Ni, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*INTERSPEECH 2023*</sub>\
