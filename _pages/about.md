@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's in Language Technologies student at Carnegie Mellon University's LTI. I am advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). 
+I am a Master's in Language Technologies student at Carnegie Mellon University's Language Technologies Institute. I am advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). 
 My work at CMU has focused on building large-scale speech foundation models. My research interests include multilingual speech recognition, speech translation, and long-form speech processing.
 
 Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team. [This](https://finance.yahoo.com/news/texas-instruments-automates-purchasing-experience-130000831.html) [collection](https://www.linkedin.com/posts/texas-instruments_texas-instruments-automates-the-purchasing-ugcPost-6993202576871632896-29MT/?utm_source=share&utm_medium=member_ios) [of articles](https://news.ti.com/texas-instruments-automates-purchasing-experience-with-ti-store-apis?HQS=ocb-tistore-promo-api_launch-linked-pr-null-wwe_awr) details some of the work I did on the team.
 
 I received my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
+
+## Recent News
+- I will be attending [ASRU 2023](http://www.asru2023.org/) in Taiwan this December
+- Check out my [blog post](https://www.wavlab.org/activities/2023/foundations/) on speech foundation models
 
 ## Past Positions
 
