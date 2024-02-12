@@ -71,9 +71,22 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 <sub>*IWSLT 2023*</sub>\
 <sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
 
+**QUESPA Submission for the IWSLT 2023 Dialect and Low-resource Speech Translation Tasks**\
+<sub>John E. Ortega, Rodolfo Zevallos, **William Chen**</sub>\
+<sub>*IWSLT 2023*</sub>\
+<sub>[paper](https://aclanthology.org/2023.iwslt-1.23/)</sub>
+
+
 *Long-Form Speech Processing*
 
 **Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**\
 <sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
-<sub>*To appear in ICASSP 2024*</sub>
+<sub>*Submitted to ICASSP 2024*</sub>
 
+**ESPNet-SUMM: Introducing a novel large dataset, toolkit, and a cross-corpora evaluation of speech summarization systems**\
+<sub>Roshan Sharma, **William Chen**, Takatomo Kano, Ruchira Sharma, Atsunori Ogawa, Siddhant Arora, Marc Delcroix, Rita Singh, Shinji Watanabe, Bhiksha Raj </sub>\
+<sub>*ASRU 2023*</sub>
+
+**Summarize while Translating: Universal Model with Parallel Decoding for Summarization and Translation**\
+<sub>Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Kohei Matsuura, Takanori Ashihara, **William Chen**, Shinji Watanabe</sub>\
+<sub>*ASRU 2023*</sub>
