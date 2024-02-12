@@ -81,7 +81,12 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 **Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**\
 <sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
-<sub>*Submitted to ICASSP 2024*</sub>
+<sub>*To appear in ICASSP 2024*</sub>
+
+**AugSumm: Towards Generalizable Speech Summarization Using Synthetic Labels from Large Language Model**
+<sub>Jee-weon Jung, Roshan Sharma, **William Chen**, Bhiksha Raj, Shinji Watanabe</sub>\
+<sub>*To appear in ICASSP 2024*</sub>\
+<sub>[paper](https://arxiv.org/abs/2401.06806)</sub>
 
 **ESPNet-SUMM: Introducing a novel large dataset, toolkit, and a cross-corpora evaluation of speech summarization systems**\
 <sub>Roshan Sharma, **William Chen**, Takatomo Kano, Ruchira Sharma, Atsunori Ogawa, Siddhant Arora, Marc Delcroix, Rita Singh, Shinji Watanabe, Bhiksha Raj </sub>\
