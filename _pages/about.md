@@ -37,15 +37,18 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 **Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning**\
 <sub>**William Chen**, Jiatong Shi, Brian Yan, Dan Berrebbi, Wangyou Zhang, Yifan Peng, Xuankai Chang, Soumi Maiti, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>
+<sub>*ASRU 2023*</sub>\
+<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389735)</sub>
 
 **Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**\
 <sub>Yifan Peng, Jinchuan Tian, Brian Yan, Dan Berrebbi, Xuankai Chang, Xinjian Li, Jiatong Shi, Siddhant Arora, **William Chen**, Roshan Sharma, Wangyou Zhang, Yui Sudo, Muhammad Shakeel, Jee-weon Jung, Soumi Maiti, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>
+<sub>*ASRU 2023*</sub>\
+<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389676/)</sub>
 
 **YODAS: Youtube-Oriented Dataset for Audio and Speech**\
 <sub>Xinjian Li, Shinnosuke Takamichi, Takaaki Saeki, **William Chen**, Sayaka Shiota, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>
+<sub>*ASRU 2023*</sub>\
+<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389689/)</sub>
 
 **Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute**\
 <sub>**William Chen**, Xuankai Chang, Yifan Peng, Zhaoheng Ni, Soumi Maiti, Shinji Watanabe</sub>\
@@ -90,8 +93,10 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 **ESPNet-SUMM: Introducing a novel large dataset, toolkit, and a cross-corpora evaluation of speech summarization systems**\
 <sub>Roshan Sharma, **William Chen**, Takatomo Kano, Ruchira Sharma, Atsunori Ogawa, Siddhant Arora, Marc Delcroix, Rita Singh, Shinji Watanabe, Bhiksha Raj </sub>\
-<sub>*ASRU 2023*</sub>
+<sub>*ASRU 2023*</sub>\
+<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389641)</sub>
 
 **Summarize while Translating: Universal Model with Parallel Decoding for Summarization and Translation**\
 <sub>Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Kohei Matsuura, Takanori Ashihara, **William Chen**, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>
+<sub>*ASRU 2023*</sub>\
+<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389781)</sub>
