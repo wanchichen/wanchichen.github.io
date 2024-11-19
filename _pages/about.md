@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's in Language Technologies student at Carnegie Mellon University's Language Technologies Institute. I am advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io). 
-My work at CMU has focused on building large-scale speech foundation models. My research interests include multilingual speech recognition, speech translation, and long-form speech processing.
-
+I am a PhD student at Carnegie Mellon University's Language Technologies Institute, advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io).
+My work at CMU has focused on building large-scale speech foundation models. I am interested in methods that can make speech models more generally useful and rely less on human supervision/effort or modelling assumptions.
+This includes topics like self-supervised speech representation learning, multilingual speech processing, and long-form speech processing.
+ 
 Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team. [This](https://finance.yahoo.com/news/texas-instruments-automates-purchasing-experience-130000831.html) [collection](https://www.linkedin.com/posts/texas-instruments_texas-instruments-automates-the-purchasing-ugcPost-6993202576871632896-29MT/?utm_source=share&utm_medium=member_ios) [of articles](https://news.ti.com/texas-instruments-automates-purchasing-experience-with-ti-store-apis?HQS=ocb-tistore-promo-api_launch-linked-pr-null-wwe_awr) details some of the work I did on the team.
 
-I received my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
+I received my Master's in Language Technologies from CMU LTI in May 2024, and my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
 
 ## Recent News
-- I will be attending [ASRU 2023](http://www.asru2023.org/) in Taiwan this December
-- Check out my [blog post](https://www.wavlab.org/activities/2023/foundations/) on speech foundation models
+- I am currently looking for summer internships!
+- I will be attending [SLT 2024](https://2024.ieeeslt.org/) in Macau this December
+- [XEUS](https://aclanthology.org/2024.emnlp-main.570/) won the Best Paper Award at EMNLP 2024
 
 ## Past Positions
 
@@ -32,70 +34,45 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 
 [Google Scholar will be more up-to-date.](https://scholar.google.com/citations?hl=en&user=e89NRb0AAAAJ&view_op=list_works&sortby=pubdate)
 
-*Speech Foundation Models*
+**Towards Robust Speech Representation Learning for Thousands of Languages**\
+<sub>**William Chen**, Wangyou Zhang, Yifan Peng, Xinjian Li, Jinchuan Tian, Jiatong Shi, Xuankai Chang, Soumi Maiti, Karen Livescu, Shinji Watanabe</sub>\
+<sub>*EMNLP 2024*, **Best Paper Award**</sub>\
+<sub>[paper](https://aclanthology.org/2024.emnlp-main.570/)</sub>
 
-**Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning**\
-<sub>**William Chen**, Jiatong Shi, Brian Yan, Dan Berrebbi, Wangyou Zhang, Yifan Peng, Xuankai Chang, Soumi Maiti, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>\
-<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389735)</sub>
+**EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios**\
+<sub>Tejes Srivastava, Jiatong Shi, **William Chen**, Shinji Watanabe</sub>\
+<sub>*INTERSPEECH 2024*, **Best Paper Award**</sub>\
+<sub>[paper](https://www.isca-archive.org/interspeech_2024/srivastava24_interspeech.pdf)</sub>
+
+**OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer**\
+<sub>Yifan Peng, Jinchuan Tian, **William Chen**, Siddhant Arora, Brian Yan, Yui Sudo, Muhammad Shakeel, Kwanghee Choi, Jiatong Shi, Xuankai Chang, Jee-weon Jung, Shinji Watanabe</sub>\
+<sub>*INTERSPEECH 2024*</sub>\
+<sub>[paper](https://www.isca-archive.org/interspeech_2024/peng24b_interspeech.pdf)</sub>
+
+**Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**\
+<sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
+<sub>*ICASSP 2024*</sub>
+<sub>[paper](https://ieeexplore.ieee.org/document/10446727)</sub>
 
 **Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**\
 <sub>Yifan Peng, Jinchuan Tian, Brian Yan, Dan Berrebbi, Xuankai Chang, Xinjian Li, Jiatong Shi, Siddhant Arora, **William Chen**, Roshan Sharma, Wangyou Zhang, Yui Sudo, Muhammad Shakeel, Jee-weon Jung, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*ASRU 2023*</sub>\
 <sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389676/)</sub>
 
-**YODAS: Youtube-Oriented Dataset for Audio and Speech**\
-<sub>Xinjian Li, Shinnosuke Takamichi, Takaaki Saeki, **William Chen**, Sayaka Shiota, Shinji Watanabe</sub>\
+**Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning**\
+<sub>**William Chen**, Jiatong Shi, Brian Yan, Dan Berrebbi, Wangyou Zhang, Yifan Peng, Xuankai Chang, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*ASRU 2023*</sub>\
-<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389689/)</sub>
+<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389735)</sub>
 
 **Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute**\
 <sub>**William Chen**, Xuankai Chang, Yifan Peng, Zhaoheng Ni, Soumi Maiti, Shinji Watanabe</sub>\
 <sub>*INTERSPEECH 2023*</sub>\
 <sub>[paper](https://arxiv.org/abs/2306.06672)</sub>
 
-**ML-SUPERB: Multilingual Speech Universal PERformance Benchmark**\
-<sub>Jiatong Shi, Dan Berrebbi, **William Chen**, Ho-Lam Chung, En-Pei Hu, Wei Ping Huang, Xuankai Chang, Shang-Wen Li, Abdelrahman Mohamed, Hung-yi Lee, Shinji Watanabe</sub>\
-<sub>*INTERSPEECH 2023*</sub>\
-<sub>[paper](https://arxiv.org/abs/2305.10615)</sub>
-
-*Multilingual Speech Recognition*
-
 **Improving Massively Multilingual ASR With Auxiliary CTC Objectives**\
 <sub>**William Chen**, Brian Yan, Jiatong Shi, Yifan Peng, Soumi Maiti, Shinji Watanabe</sub>\
-<sub>*ICASSP 2023*</sub>\
+<sub>*ICASSP 2023*, **Top 3% Paper Award, SPS Student Travel Grand Award**</sub>\
 <sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
 
-*Speech Translation*
-
-**CMU’s IWSLT 2023 Simultaneous Speech Translation System**\
-<sub>Brian Yan\*, Jiatong Shi\*, Soumi Maiti, **William Chen**, Xinjian Li, Yifan Peng, Siddhant Arora, Shinji Watanabe</sub>\
-<sub>*IWSLT 2023*</sub>\
-<sub>[paper](https://aclanthology.org/2023.iwslt-1.20/)</sub>
-
-**QUESPA Submission for the IWSLT 2023 Dialect and Low-resource Speech Translation Tasks**\
-<sub>John E. Ortega, Rodolfo Zevallos, **William Chen**</sub>\
-<sub>*IWSLT 2023*</sub>\
-<sub>[paper](https://aclanthology.org/2023.iwslt-1.23/)</sub>
 
 
-*Long-Form Speech Processing*
-
-**Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**\
-<sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
-<sub>*To appear in ICASSP 2024*</sub>
-
-**AugSumm: Towards Generalizable Speech Summarization Using Synthetic Labels from Large Language Model**\
-<sub>Jee-weon Jung, Roshan Sharma, **William Chen**, Bhiksha Raj, Shinji Watanabe</sub>\
-<sub>*To appear in ICASSP 2024*</sub>\
-<sub>[paper](https://arxiv.org/abs/2401.06806)</sub>
-
-**ESPNet-SUMM: Introducing a novel large dataset, toolkit, and a cross-corpora evaluation of speech summarization systems**\
-<sub>Roshan Sharma, **William Chen**, Takatomo Kano, Ruchira Sharma, Atsunori Ogawa, Siddhant Arora, Marc Delcroix, Rita Singh, Shinji Watanabe, Bhiksha Raj </sub>\
-<sub>*ASRU 2023*</sub>\
-<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389641)</sub>
-
-**Summarize while Translating: Universal Model with Parallel Decoding for Summarization and Translation**\
-<sub>Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Kohei Matsuura, Takanori Ashihara, **William Chen**, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>\
-<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389781)</sub>
