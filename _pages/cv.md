@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[CV](https://wanchichen.github.io/pdf/PhD_resume-1.pdf)
+[CV](https://wanchichen.github.io/pdf/PhD_cv.pdf)
+[Resume](https://wanchichen.github.io/pdf/PhD_resume-1.pdf)
