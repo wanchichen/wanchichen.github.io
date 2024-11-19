@@ -20,16 +20,6 @@ I received my Master's in Language Technologies from CMU LTI in May 2024, and my
 - I will be attending [SLT 2024](https://2024.ieeeslt.org/) in Macau this December
 - [XEUS](https://aclanthology.org/2024.emnlp-main.570/) won the Best Paper Award at EMNLP 2024
 
-## Past Positions
-
-From May 2023 to August 2023, I was a Research Intern at the [NTT Communication Sciences Lab](https://www.rd.ntt/e/cs/) in Japan, supervised by [Marc Delcroix](https://www.kecl.ntt.co.jp/icl/signal/member/marcd/), [Atsunori Ogawa](https://www.kecl.ntt.co.jp/icl/signal/member/ogawa/), and [Takatomo Kano](https://scholar.google.com/citations?user=qGzzrJYAAAAJ&hl=en).
-
-From April 2021 to July 2021, I was part of the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/).
-
-From June 2020 to July 2022, I was a Research Assistant at the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), supervised by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/).
-
-From January 2020 to October 2021, I was part of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), supervised by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
-
 ## Selected Publications
 
 [Google Scholar will be more up-to-date.](https://scholar.google.com/citations?hl=en&user=e89NRb0AAAAJ&view_op=list_works&sortby=pubdate)
@@ -75,4 +65,13 @@ From January 2020 to October 2021, I was part of the [UCF Evolutionary Computati
 <sub>[paper](https://arxiv.org/abs/2302.12829)</sub>
 
 
+## Past Positions
+
+From May 2023 to August 2023, I was a Research Intern at the [NTT Communication Sciences Lab](https://www.rd.ntt/e/cs/) in Japan, supervised by [Marc Delcroix](https://www.kecl.ntt.co.jp/icl/signal/member/marcd/), [Atsunori Ogawa](https://www.kecl.ntt.co.jp/icl/signal/member/ogawa/), and [Takatomo Kano](https://scholar.google.com/citations?user=qGzzrJYAAAAJ&hl=en).
+
+From April 2021 to July 2021, I was part of the [UCF Security and Analytics Lab](http://seal.cs.ucf.edu), supervised by Professor [David Mohaisen](http://cs.ucf.edu/~mohaisen/).
+
+From June 2020 to July 2022, I was a Research Assistant at the [UCF Computational Biology Lab](https://server.cs.ucf.edu/compbio/), supervised by Professor [Wei Zhang](https://www.cs.ucf.edu/~wzhang/).
+
+From January 2020 to October 2021, I was part of the [UCF Evolutionary Computation Lab](http://www.cs.ucf.edu/~ecl/index.html), supervised by Professor [Annie Wu](http://www.cs.ucf.edu/~aswu/).
 
