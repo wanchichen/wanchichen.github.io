@@ -16,8 +16,7 @@ Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.c
 I received my Master's in Language Technologies from CMU LTI in May 2024, and my BS in Computer Science and BA in History from the University of Central Florida in May 2021.
 
 ## Recent News
-- I will be interning at Adobe Research in San Francisco for Summer 2024
-- I will be attending [SLT 2024](https://2024.ieeeslt.org/) in Macau this December
+- I will be interning at Adobe Research in San Francisco for Summer 2025
 - [XEUS](https://aclanthology.org/2024.emnlp-main.570/) won the Best Paper Award at EMNLP 2024
 
 ## Selected Publications
