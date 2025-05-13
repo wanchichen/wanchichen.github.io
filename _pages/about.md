@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a PhD student at Carnegie Mellon University's Language Technologies Institute, advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io).
+
 I am interested in methods that can 1.) make speech models more generally useful and 2.) rely less on human supervision or modelling assumptions.
 This includes research topics like scaling, self-supervised learning, multilingualism, and long-form processing.
  
@@ -30,6 +31,7 @@ I received my Master's in Language Technologies from CMU LTI in May 2024, and my
 
 **Floras 50: A Massively Multilingual Multitask Benchmark for Long-Form Conversational Speech**\
 <sub>William Chen, Brian Yan, Chih-Chen Chen, Shinji Watanabe</sub>
+<sub>*SLT 2024*</sub>\
 <sub>[paper](https://ieeexplore.ieee.org/abstract/document/10832167)</sub>
 
 **Towards Robust Speech Representation Learning for Thousands of Languages**\
