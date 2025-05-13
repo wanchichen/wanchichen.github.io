@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 I am a PhD student at Carnegie Mellon University's Language Technologies Institute, advised by Professor [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe), as a part of the [Audio and Voice Lab](https://shinjiwlab.github.io).
-My work at CMU has focused on building large-scale speech foundation models. I am interested in methods that can make speech models more generally useful and rely less on human supervision/effort or modelling assumptions.
-This includes topics like self-supervised speech representation learning, multilingual speech processing, and long-form speech processing.
+I am interested in methods that can 1.) make speech models more generally useful and 2.) rely less on human supervision or modelling assumptions.
+This includes research topics like scaling, self-supervised learning, multilingualism, and long-form processing.
  
 Previously, I was a Software Engineer at Texas Instruments, as part of the [Ti.com](https://ti.com) e-commerce team. [This](https://finance.yahoo.com/news/texas-instruments-automates-purchasing-experience-130000831.html) [collection](https://www.linkedin.com/posts/texas-instruments_texas-instruments-automates-the-purchasing-ugcPost-6993202576871632896-29MT/?utm_source=share&utm_medium=member_ios) [of articles](https://news.ti.com/texas-instruments-automates-purchasing-experience-with-ti-store-apis?HQS=ocb-tistore-promo-api_launch-linked-pr-null-wwe_awr) details some of the work I did on the team.
 
@@ -23,6 +23,15 @@ I received my Master's in Language Technologies from CMU LTI in May 2024, and my
 
 [Google Scholar will be more up-to-date.](https://scholar.google.com/citations?hl=en&user=e89NRb0AAAAJ&view_op=list_works&sortby=pubdate)
 
+**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**\
+<sub>William Chen, Jinchuan Tian, Yifan Peng, Brian Yan, Chao-Han Huck Yang, Shinji Watanabe</sub>\
+<sub>*ICML 2025*</sub>\
+<sub>[paper](https://arxiv.org/abs/2502.10373)</sub>
+
+**Floras 50: A Massively Multilingual Multitask Benchmark for Long-Form Conversational Speech**\
+<sub>William Chen, Brian Yan, Chih-Chen Chen, Shinji Watanabe</sub>
+<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10832167)</sub>
+
 **Towards Robust Speech Representation Learning for Thousands of Languages**\
 <sub>**William Chen**, Wangyou Zhang, Yifan Peng, Xinjian Li, Jinchuan Tian, Jiatong Shi, Xuankai Chang, Soumi Maiti, Karen Livescu, Shinji Watanabe</sub>\
 <sub>*EMNLP 2024*, **Best Paper Award**</sub>\
@@ -33,20 +42,10 @@ I received my Master's in Language Technologies from CMU LTI in May 2024, and my
 <sub>*INTERSPEECH 2024*, **Best Paper Award**</sub>\
 <sub>[paper](https://www.isca-archive.org/interspeech_2024/srivastava24_interspeech.pdf)</sub>
 
-**OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer**\
-<sub>Yifan Peng, Jinchuan Tian, **William Chen**, Siddhant Arora, Brian Yan, Yui Sudo, Muhammad Shakeel, Kwanghee Choi, Jiatong Shi, Xuankai Chang, Jee-weon Jung, Shinji Watanabe</sub>\
-<sub>*INTERSPEECH 2024*</sub>\
-<sub>[paper](https://www.isca-archive.org/interspeech_2024/peng24b_interspeech.pdf)</sub>
-
 **Train Long and Test Long: Leveraging Full Document Contexts in Speech Processing**\
 <sub>**William Chen**, Takatomo Kano, Atsunori Ogawa, Marc Delcroix, Shinji Watanabe</sub>\
 <sub>*ICASSP 2024*</sub>
 <sub>[paper](https://ieeexplore.ieee.org/document/10446727)</sub>
-
-**Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**\
-<sub>Yifan Peng, Jinchuan Tian, Brian Yan, Dan Berrebbi, Xuankai Chang, Xinjian Li, Jiatong Shi, Siddhant Arora, **William Chen**, Roshan Sharma, Wangyou Zhang, Yui Sudo, Muhammad Shakeel, Jee-weon Jung, Soumi Maiti, Shinji Watanabe</sub>\
-<sub>*ASRU 2023*</sub>\
-<sub>[paper](https://ieeexplore.ieee.org/abstract/document/10389676/)</sub>
 
 **Joint Prediction and Denoising for Large-Scale Multilingual Self-Supervised Learning**\
 <sub>**William Chen**, Jiatong Shi, Brian Yan, Dan Berrebbi, Wangyou Zhang, Yifan Peng, Xuankai Chang, Soumi Maiti, Shinji Watanabe</sub>\
